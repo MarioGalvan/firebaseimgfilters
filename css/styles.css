@@ -1,0 +1,29 @@
+.profilecard {
+    justify-content: center;
+    margin-left: 450px;
+}
+
+.formregistro {
+    margin-left: 420px;
+    margin-top: 50px;
+}
+
+body {
+    background-color: #ED7F7F;
+    color: white;
+    font-weight: bold;
+
+}
+
+.containeranimales {
+    display: inline-flex;
+    margin-top: 20px;
+}
+
+.cardanimales {
+    color: black;
+    font-weight: 300 !important;
+    margin: 3px;
+    width: 18rem;
+    /* height: 10px; */
+}
